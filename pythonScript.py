@@ -63,6 +63,9 @@ while currentIteration <= numberOfIterations:
         r2 = requests.get(apiUrl)
         logging.info(r2.status_code)
         
+        if r2.status_code == 200:
+            break
+        
         if r2.status_code == 500 and currentTries < maxTries:
             tries += 1
             logging.info("Data fetch failed. Waiting 10 seconds.")
@@ -73,7 +76,6 @@ while currentIteration <= numberOfIterations:
             logging.info("Maximim tries reached. Exiting program.")
             sys.exit()
         
-        break
     
     logging.info("Data fetch successful. Continuing.")
     res2 = r2.json()

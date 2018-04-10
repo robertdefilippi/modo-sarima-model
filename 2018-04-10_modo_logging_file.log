@@ -1,0 +1,11 @@
+Tue, 10 Apr 2018 00:27:17 INFO Starting script
+Tue, 10 Apr 2018 00:27:17 INFO File to written is named output_2018-04-10.csv
+Tue, 10 Apr 2018 00:27:17 INFO Writing empty csv to disk
+Tue, 10 Apr 2018 00:27:17 INFO Starting iteration cycle: 0
+Tue, 10 Apr 2018 00:27:17 INFO Attemping to fetch data
+Tue, 10 Apr 2018 00:27:18 INFO 200
+Tue, 10 Apr 2018 00:27:18 INFO Data fetch successful. Continuing.
+Tue, 10 Apr 2018 00:27:18 INFO Current iteration is happening at 2018-04-10T00:27:18.101766
+Tue, 10 Apr 2018 00:27:18 INFO Creating dataframe to append
+Tue, 10 Apr 2018 00:27:18 INFO Appending to existing file
+Tue, 10 Apr 2018 00:27:18 INFO Sleeping until next iteration
