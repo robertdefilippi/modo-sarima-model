@@ -107,7 +107,7 @@ while currentIteration <= numberOfIterations:
         neighbourhood_val = data2['Response']['Locations'][record]['Neighbourhood']
         region_val = data2['Response']['Locations'][record]['Region']
         lat_val = data2['Response']['Locations'][record]['Latitude']
-        lng_val = data2['Response']['Locations'][record]['Latitude']
+        lng_val = data2['Response']['Locations'][record]['Longitude']
 
         id_values.append(id_val)
         city_values.append(city_val)
