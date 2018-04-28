@@ -1,0 +1,602 @@
+Sat, 28 Apr 2018 01:39:10 INFO Starting script
+Sat, 28 Apr 2018 01:39:10 INFO File to written is named output_2018-04-28.csv
+Sat, 28 Apr 2018 01:39:10 INFO Writing empty csv to disk
+Sat, 28 Apr 2018 01:39:10 INFO Starting iteration cycle: 0
+Sat, 28 Apr 2018 01:39:10 INFO Attemping to fetch data
+Sat, 28 Apr 2018 01:39:10 INFO Starting new HTTPS connection (1): bookit.modo.coop
+Sat, 28 Apr 2018 01:39:10 INFO 200
+Sat, 28 Apr 2018 01:39:10 INFO Data fetch successful. Continuing.
+Sat, 28 Apr 2018 01:39:11 INFO Current iteration is happening at 2018-04-28T01:39:11.009014
+Sat, 28 Apr 2018 01:39:11 INFO Creating dataframe to append
+Sat, 28 Apr 2018 01:39:11 INFO Appending to existing file
+Sat, 28 Apr 2018 01:39:11 INFO Sleeping until next iteration
+Sat, 28 Apr 2018 01:54:11 INFO Done sleeping
+Sat, 28 Apr 2018 01:54:11 INFO Starting iteration cycle: 1
+Sat, 28 Apr 2018 01:54:11 INFO Attemping to fetch data
+Sat, 28 Apr 2018 01:54:11 INFO Starting new HTTPS connection (1): bookit.modo.coop
+Sat, 28 Apr 2018 01:54:11 INFO 200
+Sat, 28 Apr 2018 01:54:11 INFO Data fetch successful. Continuing.
+Sat, 28 Apr 2018 01:54:11 INFO Current iteration is happening at 2018-04-28T01:54:11.784940
+Sat, 28 Apr 2018 01:54:11 INFO Creating dataframe to append
+Sat, 28 Apr 2018 01:54:11 INFO Appending to existing file
+Sat, 28 Apr 2018 01:54:11 INFO Sleeping until next iteration
+Sat, 28 Apr 2018 02:09:11 INFO Done sleeping
+Sat, 28 Apr 2018 02:09:11 INFO Starting iteration cycle: 2
+Sat, 28 Apr 2018 02:09:11 INFO Attemping to fetch data
+Sat, 28 Apr 2018 02:09:11 INFO Starting new HTTPS connection (1): bookit.modo.coop
+Sat, 28 Apr 2018 02:09:12 INFO 200
+Sat, 28 Apr 2018 02:09:12 INFO Data fetch successful. Continuing.
+Sat, 28 Apr 2018 02:09:12 INFO Current iteration is happening at 2018-04-28T02:09:12.745915
+Sat, 28 Apr 2018 02:09:12 INFO Creating dataframe to append
+Sat, 28 Apr 2018 02:09:12 INFO Appending to existing file
+Sat, 28 Apr 2018 02:09:12 INFO Sleeping until next iteration
+Sat, 28 Apr 2018 02:24:12 INFO Done sleeping
+Sat, 28 Apr 2018 02:24:12 INFO Starting iteration cycle: 3
+Sat, 28 Apr 2018 02:24:12 INFO Attemping to fetch data
+Sat, 28 Apr 2018 02:24:12 INFO Starting new HTTPS connection (1): bookit.modo.coop
+Sat, 28 Apr 2018 02:24:13 INFO 200
+Sat, 28 Apr 2018 02:24:13 INFO Data fetch successful. Continuing.
+Sat, 28 Apr 2018 02:24:13 INFO Current iteration is happening at 2018-04-28T02:24:13.597858
+Sat, 28 Apr 2018 02:24:13 INFO Creating dataframe to append
+Sat, 28 Apr 2018 02:24:13 INFO Appending to existing file
+Sat, 28 Apr 2018 02:24:13 INFO Sleeping until next iteration
+Sat, 28 Apr 2018 02:39:13 INFO Done sleeping
+Sat, 28 Apr 2018 02:39:13 INFO Starting iteration cycle: 4
+Sat, 28 Apr 2018 02:39:13 INFO Attemping to fetch data
+Sat, 28 Apr 2018 02:39:13 INFO Starting new HTTPS connection (1): bookit.modo.coop
+Sat, 28 Apr 2018 02:39:14 INFO 200
+Sat, 28 Apr 2018 02:39:14 INFO Data fetch successful. Continuing.
+Sat, 28 Apr 2018 02:39:14 INFO Current iteration is happening at 2018-04-28T02:39:14.436897
+Sat, 28 Apr 2018 02:39:14 INFO Creating dataframe to append
+Sat, 28 Apr 2018 02:39:14 INFO Appending to existing file
+Sat, 28 Apr 2018 02:39:14 INFO Sleeping until next iteration
+Sat, 28 Apr 2018 02:54:14 INFO Done sleeping
+Sat, 28 Apr 2018 02:54:14 INFO Starting iteration cycle: 5
+Sat, 28 Apr 2018 02:54:14 INFO Attemping to fetch data
+Sat, 28 Apr 2018 02:54:14 INFO Starting new HTTPS connection (1): bookit.modo.coop
+Sat, 28 Apr 2018 02:54:15 INFO 200
+Sat, 28 Apr 2018 02:54:15 INFO Data fetch successful. Continuing.
+Sat, 28 Apr 2018 02:54:15 INFO Current iteration is happening at 2018-04-28T02:54:15.201677
+Sat, 28 Apr 2018 02:54:15 INFO Creating dataframe to append
+Sat, 28 Apr 2018 02:54:15 INFO Appending to existing file
+Sat, 28 Apr 2018 02:54:15 INFO Sleeping until next iteration
+Sat, 28 Apr 2018 03:09:15 INFO Done sleeping
+Sat, 28 Apr 2018 03:09:15 INFO Starting iteration cycle: 6
+Sat, 28 Apr 2018 03:09:15 INFO Attemping to fetch data
+Sat, 28 Apr 2018 03:09:15 INFO Starting new HTTPS connection (1): bookit.modo.coop
+Sat, 28 Apr 2018 03:09:16 INFO 200
+Sat, 28 Apr 2018 03:09:16 INFO Data fetch successful. Continuing.
+Sat, 28 Apr 2018 03:09:16 INFO Current iteration is happening at 2018-04-28T03:09:16.045847
+Sat, 28 Apr 2018 03:09:16 INFO Creating dataframe to append
+Sat, 28 Apr 2018 03:09:16 INFO Appending to existing file
+Sat, 28 Apr 2018 03:09:16 INFO Sleeping until next iteration
+Sat, 28 Apr 2018 03:24:16 INFO Done sleeping
+Sat, 28 Apr 2018 03:24:16 INFO Starting iteration cycle: 7
+Sat, 28 Apr 2018 03:24:16 INFO Attemping to fetch data
+Sat, 28 Apr 2018 03:24:16 INFO Starting new HTTPS connection (1): bookit.modo.coop
+Sat, 28 Apr 2018 03:24:16 INFO 200
+Sat, 28 Apr 2018 03:24:16 INFO Data fetch successful. Continuing.
+Sat, 28 Apr 2018 03:24:16 INFO Current iteration is happening at 2018-04-28T03:24:16.882029
+Sat, 28 Apr 2018 03:24:16 INFO Creating dataframe to append
+Sat, 28 Apr 2018 03:24:16 INFO Appending to existing file
+Sat, 28 Apr 2018 03:24:16 INFO Sleeping until next iteration
+Sat, 28 Apr 2018 03:39:16 INFO Done sleeping
+Sat, 28 Apr 2018 03:39:16 INFO Starting iteration cycle: 8
+Sat, 28 Apr 2018 03:39:16 INFO Attemping to fetch data
+Sat, 28 Apr 2018 03:39:16 INFO Starting new HTTPS connection (1): bookit.modo.coop
+Sat, 28 Apr 2018 03:39:17 INFO 200
+Sat, 28 Apr 2018 03:39:17 INFO Data fetch successful. Continuing.
+Sat, 28 Apr 2018 03:39:17 INFO Current iteration is happening at 2018-04-28T03:39:17.683559
+Sat, 28 Apr 2018 03:39:17 INFO Creating dataframe to append
+Sat, 28 Apr 2018 03:39:17 INFO Appending to existing file
+Sat, 28 Apr 2018 03:39:17 INFO Sleeping until next iteration
+Sat, 28 Apr 2018 03:54:17 INFO Done sleeping
+Sat, 28 Apr 2018 03:54:17 INFO Starting iteration cycle: 9
+Sat, 28 Apr 2018 03:54:17 INFO Attemping to fetch data
+Sat, 28 Apr 2018 03:54:17 INFO Starting new HTTPS connection (1): bookit.modo.coop
+Sat, 28 Apr 2018 03:54:18 INFO 200
+Sat, 28 Apr 2018 03:54:18 INFO Data fetch successful. Continuing.
+Sat, 28 Apr 2018 03:54:18 INFO Current iteration is happening at 2018-04-28T03:54:18.522706
+Sat, 28 Apr 2018 03:54:18 INFO Creating dataframe to append
+Sat, 28 Apr 2018 03:54:18 INFO Appending to existing file
+Sat, 28 Apr 2018 03:54:18 INFO Sleeping until next iteration
+Sat, 28 Apr 2018 04:09:18 INFO Done sleeping
+Sat, 28 Apr 2018 04:09:18 INFO Starting iteration cycle: 10
+Sat, 28 Apr 2018 04:09:18 INFO Attemping to fetch data
+Sat, 28 Apr 2018 04:09:18 INFO Starting new HTTPS connection (1): bookit.modo.coop
+Sat, 28 Apr 2018 04:09:19 INFO 200
+Sat, 28 Apr 2018 04:09:19 INFO Data fetch successful. Continuing.
+Sat, 28 Apr 2018 04:09:19 INFO Current iteration is happening at 2018-04-28T04:09:19.380695
+Sat, 28 Apr 2018 04:09:19 INFO Creating dataframe to append
+Sat, 28 Apr 2018 04:09:19 INFO Appending to existing file
+Sat, 28 Apr 2018 04:09:19 INFO Sleeping until next iteration
+Sat, 28 Apr 2018 04:24:19 INFO Done sleeping
+Sat, 28 Apr 2018 04:24:19 INFO Starting iteration cycle: 11
+Sat, 28 Apr 2018 04:24:19 INFO Attemping to fetch data
+Sat, 28 Apr 2018 04:24:19 INFO Starting new HTTPS connection (1): bookit.modo.coop
+Sat, 28 Apr 2018 04:24:20 INFO 200
+Sat, 28 Apr 2018 04:24:20 INFO Data fetch successful. Continuing.
+Sat, 28 Apr 2018 04:24:20 INFO Current iteration is happening at 2018-04-28T04:24:20.212972
+Sat, 28 Apr 2018 04:24:20 INFO Creating dataframe to append
+Sat, 28 Apr 2018 04:24:20 INFO Appending to existing file
+Sat, 28 Apr 2018 04:24:20 INFO Sleeping until next iteration
+Sat, 28 Apr 2018 04:39:20 INFO Done sleeping
+Sat, 28 Apr 2018 04:39:20 INFO Starting iteration cycle: 12
+Sat, 28 Apr 2018 04:39:20 INFO Attemping to fetch data
+Sat, 28 Apr 2018 04:39:20 INFO Starting new HTTPS connection (1): bookit.modo.coop
+Sat, 28 Apr 2018 04:39:21 INFO 200
+Sat, 28 Apr 2018 04:39:21 INFO Data fetch successful. Continuing.
+Sat, 28 Apr 2018 04:39:21 INFO Current iteration is happening at 2018-04-28T04:39:21.032739
+Sat, 28 Apr 2018 04:39:21 INFO Creating dataframe to append
+Sat, 28 Apr 2018 04:39:21 INFO Appending to existing file
+Sat, 28 Apr 2018 04:39:21 INFO Sleeping until next iteration
+Sat, 28 Apr 2018 04:54:21 INFO Done sleeping
+Sat, 28 Apr 2018 04:54:21 INFO Starting iteration cycle: 13
+Sat, 28 Apr 2018 04:54:21 INFO Attemping to fetch data
+Sat, 28 Apr 2018 04:54:21 INFO Starting new HTTPS connection (1): bookit.modo.coop
+Sat, 28 Apr 2018 04:54:21 INFO 200
+Sat, 28 Apr 2018 04:54:21 INFO Data fetch successful. Continuing.
+Sat, 28 Apr 2018 04:54:21 INFO Current iteration is happening at 2018-04-28T04:54:21.882189
+Sat, 28 Apr 2018 04:54:21 INFO Creating dataframe to append
+Sat, 28 Apr 2018 04:54:21 INFO Appending to existing file
+Sat, 28 Apr 2018 04:54:21 INFO Sleeping until next iteration
+Sat, 28 Apr 2018 05:09:21 INFO Done sleeping
+Sat, 28 Apr 2018 05:09:21 INFO Starting iteration cycle: 14
+Sat, 28 Apr 2018 05:09:21 INFO Attemping to fetch data
+Sat, 28 Apr 2018 05:09:21 INFO Starting new HTTPS connection (1): bookit.modo.coop
+Sat, 28 Apr 2018 05:09:22 INFO 200
+Sat, 28 Apr 2018 05:09:22 INFO Data fetch successful. Continuing.
+Sat, 28 Apr 2018 05:09:22 INFO Current iteration is happening at 2018-04-28T05:09:22.667148
+Sat, 28 Apr 2018 05:09:22 INFO Creating dataframe to append
+Sat, 28 Apr 2018 05:09:22 INFO Appending to existing file
+Sat, 28 Apr 2018 05:09:22 INFO Sleeping until next iteration
+Sat, 28 Apr 2018 05:24:22 INFO Done sleeping
+Sat, 28 Apr 2018 05:24:22 INFO Starting iteration cycle: 15
+Sat, 28 Apr 2018 05:24:22 INFO Attemping to fetch data
+Sat, 28 Apr 2018 05:24:22 INFO Starting new HTTPS connection (1): bookit.modo.coop
+Sat, 28 Apr 2018 05:24:23 INFO 200
+Sat, 28 Apr 2018 05:24:23 INFO Data fetch successful. Continuing.
+Sat, 28 Apr 2018 05:24:23 INFO Current iteration is happening at 2018-04-28T05:24:23.526512
+Sat, 28 Apr 2018 05:24:23 INFO Creating dataframe to append
+Sat, 28 Apr 2018 05:24:23 INFO Appending to existing file
+Sat, 28 Apr 2018 05:24:23 INFO Sleeping until next iteration
+Sat, 28 Apr 2018 05:39:23 INFO Done sleeping
+Sat, 28 Apr 2018 05:39:23 INFO Starting iteration cycle: 16
+Sat, 28 Apr 2018 05:39:23 INFO Attemping to fetch data
+Sat, 28 Apr 2018 05:39:23 INFO Starting new HTTPS connection (1): bookit.modo.coop
+Sat, 28 Apr 2018 05:39:24 INFO 200
+Sat, 28 Apr 2018 05:39:24 INFO Data fetch successful. Continuing.
+Sat, 28 Apr 2018 05:39:24 INFO Current iteration is happening at 2018-04-28T05:39:24.569551
+Sat, 28 Apr 2018 05:39:24 INFO Creating dataframe to append
+Sat, 28 Apr 2018 05:39:24 INFO Appending to existing file
+Sat, 28 Apr 2018 05:39:24 INFO Sleeping until next iteration
+Sat, 28 Apr 2018 05:54:24 INFO Done sleeping
+Sat, 28 Apr 2018 05:54:24 INFO Starting iteration cycle: 17
+Sat, 28 Apr 2018 05:54:24 INFO Attemping to fetch data
+Sat, 28 Apr 2018 05:54:24 INFO Starting new HTTPS connection (1): bookit.modo.coop
+Sat, 28 Apr 2018 05:54:25 INFO 200
+Sat, 28 Apr 2018 05:54:25 INFO Data fetch successful. Continuing.
+Sat, 28 Apr 2018 05:54:25 INFO Current iteration is happening at 2018-04-28T05:54:25.415394
+Sat, 28 Apr 2018 05:54:25 INFO Creating dataframe to append
+Sat, 28 Apr 2018 05:54:25 INFO Appending to existing file
+Sat, 28 Apr 2018 05:54:25 INFO Sleeping until next iteration
+Sat, 28 Apr 2018 06:09:25 INFO Done sleeping
+Sat, 28 Apr 2018 06:09:25 INFO Starting iteration cycle: 18
+Sat, 28 Apr 2018 06:09:25 INFO Attemping to fetch data
+Sat, 28 Apr 2018 06:09:25 INFO Starting new HTTPS connection (1): bookit.modo.coop
+Sat, 28 Apr 2018 06:09:26 INFO 200
+Sat, 28 Apr 2018 06:09:26 INFO Data fetch successful. Continuing.
+Sat, 28 Apr 2018 06:09:26 INFO Current iteration is happening at 2018-04-28T06:09:26.182408
+Sat, 28 Apr 2018 06:09:26 INFO Creating dataframe to append
+Sat, 28 Apr 2018 06:09:26 INFO Appending to existing file
+Sat, 28 Apr 2018 06:09:26 INFO Sleeping until next iteration
+Sat, 28 Apr 2018 06:24:26 INFO Done sleeping
+Sat, 28 Apr 2018 06:24:26 INFO Starting iteration cycle: 19
+Sat, 28 Apr 2018 06:24:26 INFO Attemping to fetch data
+Sat, 28 Apr 2018 06:24:26 INFO Starting new HTTPS connection (1): bookit.modo.coop
+Sat, 28 Apr 2018 06:24:27 INFO 200
+Sat, 28 Apr 2018 06:24:27 INFO Data fetch successful. Continuing.
+Sat, 28 Apr 2018 06:24:27 INFO Current iteration is happening at 2018-04-28T06:24:27.060204
+Sat, 28 Apr 2018 06:24:27 INFO Creating dataframe to append
+Sat, 28 Apr 2018 06:24:27 INFO Appending to existing file
+Sat, 28 Apr 2018 06:24:27 INFO Sleeping until next iteration
+Sat, 28 Apr 2018 06:39:27 INFO Done sleeping
+Sat, 28 Apr 2018 06:39:27 INFO Starting iteration cycle: 20
+Sat, 28 Apr 2018 06:39:27 INFO Attemping to fetch data
+Sat, 28 Apr 2018 06:39:27 INFO Starting new HTTPS connection (1): bookit.modo.coop
+Sat, 28 Apr 2018 06:39:27 INFO 200
+Sat, 28 Apr 2018 06:39:27 INFO Data fetch successful. Continuing.
+Sat, 28 Apr 2018 06:39:27 INFO Current iteration is happening at 2018-04-28T06:39:27.895843
+Sat, 28 Apr 2018 06:39:27 INFO Creating dataframe to append
+Sat, 28 Apr 2018 06:39:27 INFO Appending to existing file
+Sat, 28 Apr 2018 06:39:27 INFO Sleeping until next iteration
+Sat, 28 Apr 2018 06:54:27 INFO Done sleeping
+Sat, 28 Apr 2018 06:54:27 INFO Starting iteration cycle: 21
+Sat, 28 Apr 2018 06:54:27 INFO Attemping to fetch data
+Sat, 28 Apr 2018 06:54:27 INFO Starting new HTTPS connection (1): bookit.modo.coop
+Sat, 28 Apr 2018 06:54:28 INFO 200
+Sat, 28 Apr 2018 06:54:28 INFO Data fetch successful. Continuing.
+Sat, 28 Apr 2018 06:54:28 INFO Current iteration is happening at 2018-04-28T06:54:28.692164
+Sat, 28 Apr 2018 06:54:28 INFO Creating dataframe to append
+Sat, 28 Apr 2018 06:54:28 INFO Appending to existing file
+Sat, 28 Apr 2018 06:54:28 INFO Sleeping until next iteration
+Sat, 28 Apr 2018 07:09:28 INFO Done sleeping
+Sat, 28 Apr 2018 07:09:28 INFO Starting iteration cycle: 22
+Sat, 28 Apr 2018 07:09:28 INFO Attemping to fetch data
+Sat, 28 Apr 2018 07:09:28 INFO Starting new HTTPS connection (1): bookit.modo.coop
+Sat, 28 Apr 2018 07:09:29 INFO 200
+Sat, 28 Apr 2018 07:09:29 INFO Data fetch successful. Continuing.
+Sat, 28 Apr 2018 07:09:29 INFO Current iteration is happening at 2018-04-28T07:09:29.563238
+Sat, 28 Apr 2018 07:09:29 INFO Creating dataframe to append
+Sat, 28 Apr 2018 07:09:29 INFO Appending to existing file
+Sat, 28 Apr 2018 07:09:29 INFO Sleeping until next iteration
+Sat, 28 Apr 2018 07:24:29 INFO Done sleeping
+Sat, 28 Apr 2018 07:24:29 INFO Starting iteration cycle: 23
+Sat, 28 Apr 2018 07:24:29 INFO Attemping to fetch data
+Sat, 28 Apr 2018 07:24:29 INFO Starting new HTTPS connection (1): bookit.modo.coop
+Sat, 28 Apr 2018 07:24:30 INFO 200
+Sat, 28 Apr 2018 07:24:30 INFO Data fetch successful. Continuing.
+Sat, 28 Apr 2018 07:24:30 INFO Current iteration is happening at 2018-04-28T07:24:30.490263
+Sat, 28 Apr 2018 07:24:30 INFO Creating dataframe to append
+Sat, 28 Apr 2018 07:24:30 INFO Appending to existing file
+Sat, 28 Apr 2018 07:24:30 INFO Sleeping until next iteration
+Sat, 28 Apr 2018 07:39:30 INFO Done sleeping
+Sat, 28 Apr 2018 07:39:30 INFO Starting iteration cycle: 24
+Sat, 28 Apr 2018 07:39:30 INFO Attemping to fetch data
+Sat, 28 Apr 2018 07:39:30 INFO Starting new HTTPS connection (1): bookit.modo.coop
+Sat, 28 Apr 2018 07:39:31 INFO 200
+Sat, 28 Apr 2018 07:39:31 INFO Data fetch successful. Continuing.
+Sat, 28 Apr 2018 07:39:31 INFO Current iteration is happening at 2018-04-28T07:39:31.226932
+Sat, 28 Apr 2018 07:39:31 INFO Creating dataframe to append
+Sat, 28 Apr 2018 07:39:31 INFO Appending to existing file
+Sat, 28 Apr 2018 07:39:31 INFO Sleeping until next iteration
+Sat, 28 Apr 2018 07:54:31 INFO Done sleeping
+Sat, 28 Apr 2018 07:54:31 INFO Starting iteration cycle: 25
+Sat, 28 Apr 2018 07:54:31 INFO Attemping to fetch data
+Sat, 28 Apr 2018 07:54:31 INFO Starting new HTTPS connection (1): bookit.modo.coop
+Sat, 28 Apr 2018 07:54:32 INFO 200
+Sat, 28 Apr 2018 07:54:32 INFO Data fetch successful. Continuing.
+Sat, 28 Apr 2018 07:54:32 INFO Current iteration is happening at 2018-04-28T07:54:32.103303
+Sat, 28 Apr 2018 07:54:32 INFO Creating dataframe to append
+Sat, 28 Apr 2018 07:54:32 INFO Appending to existing file
+Sat, 28 Apr 2018 07:54:32 INFO Sleeping until next iteration
+Sat, 28 Apr 2018 08:09:32 INFO Done sleeping
+Sat, 28 Apr 2018 08:09:32 INFO Starting iteration cycle: 26
+Sat, 28 Apr 2018 08:09:32 INFO Attemping to fetch data
+Sat, 28 Apr 2018 08:09:32 INFO Starting new HTTPS connection (1): bookit.modo.coop
+Sat, 28 Apr 2018 08:09:32 INFO 200
+Sat, 28 Apr 2018 08:09:32 INFO Data fetch successful. Continuing.
+Sat, 28 Apr 2018 08:09:32 INFO Current iteration is happening at 2018-04-28T08:09:32.975839
+Sat, 28 Apr 2018 08:09:32 INFO Creating dataframe to append
+Sat, 28 Apr 2018 08:09:32 INFO Appending to existing file
+Sat, 28 Apr 2018 08:09:32 INFO Sleeping until next iteration
+Sat, 28 Apr 2018 08:24:33 INFO Done sleeping
+Sat, 28 Apr 2018 08:24:33 INFO Starting iteration cycle: 27
+Sat, 28 Apr 2018 08:24:33 INFO Attemping to fetch data
+Sat, 28 Apr 2018 08:24:33 INFO Starting new HTTPS connection (1): bookit.modo.coop
+Sat, 28 Apr 2018 08:24:33 INFO 200
+Sat, 28 Apr 2018 08:24:33 INFO Data fetch successful. Continuing.
+Sat, 28 Apr 2018 08:24:33 INFO Current iteration is happening at 2018-04-28T08:24:33.723040
+Sat, 28 Apr 2018 08:24:33 INFO Creating dataframe to append
+Sat, 28 Apr 2018 08:24:33 INFO Appending to existing file
+Sat, 28 Apr 2018 08:24:33 INFO Sleeping until next iteration
+Sat, 28 Apr 2018 08:39:33 INFO Done sleeping
+Sat, 28 Apr 2018 08:39:33 INFO Starting iteration cycle: 28
+Sat, 28 Apr 2018 08:39:33 INFO Attemping to fetch data
+Sat, 28 Apr 2018 08:39:33 INFO Starting new HTTPS connection (1): bookit.modo.coop
+Sat, 28 Apr 2018 08:39:34 INFO 200
+Sat, 28 Apr 2018 08:39:34 INFO Data fetch successful. Continuing.
+Sat, 28 Apr 2018 08:39:34 INFO Current iteration is happening at 2018-04-28T08:39:34.554154
+Sat, 28 Apr 2018 08:39:34 INFO Creating dataframe to append
+Sat, 28 Apr 2018 08:39:34 INFO Appending to existing file
+Sat, 28 Apr 2018 08:39:34 INFO Sleeping until next iteration
+Sat, 28 Apr 2018 08:54:34 INFO Done sleeping
+Sat, 28 Apr 2018 08:54:34 INFO Starting iteration cycle: 29
+Sat, 28 Apr 2018 08:54:34 INFO Attemping to fetch data
+Sat, 28 Apr 2018 08:54:34 INFO Starting new HTTPS connection (1): bookit.modo.coop
+Sat, 28 Apr 2018 08:54:35 INFO 200
+Sat, 28 Apr 2018 08:54:35 INFO Data fetch successful. Continuing.
+Sat, 28 Apr 2018 08:54:35 INFO Current iteration is happening at 2018-04-28T08:54:35.389898
+Sat, 28 Apr 2018 08:54:35 INFO Creating dataframe to append
+Sat, 28 Apr 2018 08:54:35 INFO Appending to existing file
+Sat, 28 Apr 2018 08:54:35 INFO Sleeping until next iteration
+Sat, 28 Apr 2018 09:09:35 INFO Done sleeping
+Sat, 28 Apr 2018 09:09:35 INFO Starting iteration cycle: 30
+Sat, 28 Apr 2018 09:09:35 INFO Attemping to fetch data
+Sat, 28 Apr 2018 09:09:35 INFO Starting new HTTPS connection (1): bookit.modo.coop
+Sat, 28 Apr 2018 09:09:36 INFO 200
+Sat, 28 Apr 2018 09:09:36 INFO Data fetch successful. Continuing.
+Sat, 28 Apr 2018 09:09:36 INFO Current iteration is happening at 2018-04-28T09:09:36.355520
+Sat, 28 Apr 2018 09:09:36 INFO Creating dataframe to append
+Sat, 28 Apr 2018 09:09:36 INFO Appending to existing file
+Sat, 28 Apr 2018 09:09:36 INFO Sleeping until next iteration
+Sat, 28 Apr 2018 09:24:36 INFO Done sleeping
+Sat, 28 Apr 2018 09:24:36 INFO Starting iteration cycle: 31
+Sat, 28 Apr 2018 09:24:36 INFO Attemping to fetch data
+Sat, 28 Apr 2018 09:24:36 INFO Starting new HTTPS connection (1): bookit.modo.coop
+Sat, 28 Apr 2018 09:24:37 INFO 200
+Sat, 28 Apr 2018 09:24:37 INFO Data fetch successful. Continuing.
+Sat, 28 Apr 2018 09:24:37 INFO Current iteration is happening at 2018-04-28T09:24:37.149577
+Sat, 28 Apr 2018 09:24:37 INFO Creating dataframe to append
+Sat, 28 Apr 2018 09:24:37 INFO Appending to existing file
+Sat, 28 Apr 2018 09:24:37 INFO Sleeping until next iteration
+Sat, 28 Apr 2018 09:39:37 INFO Done sleeping
+Sat, 28 Apr 2018 09:39:37 INFO Starting iteration cycle: 32
+Sat, 28 Apr 2018 09:39:37 INFO Attemping to fetch data
+Sat, 28 Apr 2018 09:39:37 INFO Starting new HTTPS connection (1): bookit.modo.coop
+Sat, 28 Apr 2018 09:39:37 INFO 200
+Sat, 28 Apr 2018 09:39:37 INFO Data fetch successful. Continuing.
+Sat, 28 Apr 2018 09:39:37 INFO Current iteration is happening at 2018-04-28T09:39:37.982138
+Sat, 28 Apr 2018 09:39:37 INFO Creating dataframe to append
+Sat, 28 Apr 2018 09:39:37 INFO Appending to existing file
+Sat, 28 Apr 2018 09:39:37 INFO Sleeping until next iteration
+Sat, 28 Apr 2018 09:54:38 INFO Done sleeping
+Sat, 28 Apr 2018 09:54:38 INFO Starting iteration cycle: 33
+Sat, 28 Apr 2018 09:54:38 INFO Attemping to fetch data
+Sat, 28 Apr 2018 09:54:38 INFO Starting new HTTPS connection (1): bookit.modo.coop
+Sat, 28 Apr 2018 09:54:38 INFO 200
+Sat, 28 Apr 2018 09:54:38 INFO Data fetch successful. Continuing.
+Sat, 28 Apr 2018 09:54:38 INFO Current iteration is happening at 2018-04-28T09:54:38.784872
+Sat, 28 Apr 2018 09:54:38 INFO Creating dataframe to append
+Sat, 28 Apr 2018 09:54:38 INFO Appending to existing file
+Sat, 28 Apr 2018 09:54:38 INFO Sleeping until next iteration
+Sat, 28 Apr 2018 10:09:38 INFO Done sleeping
+Sat, 28 Apr 2018 10:09:38 INFO Starting iteration cycle: 34
+Sat, 28 Apr 2018 10:09:38 INFO Attemping to fetch data
+Sat, 28 Apr 2018 10:09:38 INFO Starting new HTTPS connection (1): bookit.modo.coop
+Sat, 28 Apr 2018 10:09:39 INFO 200
+Sat, 28 Apr 2018 10:09:39 INFO Data fetch successful. Continuing.
+Sat, 28 Apr 2018 10:09:39 INFO Current iteration is happening at 2018-04-28T10:09:39.592230
+Sat, 28 Apr 2018 10:09:39 INFO Creating dataframe to append
+Sat, 28 Apr 2018 10:09:39 INFO Appending to existing file
+Sat, 28 Apr 2018 10:09:39 INFO Sleeping until next iteration
+Sat, 28 Apr 2018 10:24:39 INFO Done sleeping
+Sat, 28 Apr 2018 10:24:39 INFO Starting iteration cycle: 35
+Sat, 28 Apr 2018 10:24:39 INFO Attemping to fetch data
+Sat, 28 Apr 2018 10:24:39 INFO Starting new HTTPS connection (1): bookit.modo.coop
+Sat, 28 Apr 2018 10:24:40 INFO 200
+Sat, 28 Apr 2018 10:24:40 INFO Data fetch successful. Continuing.
+Sat, 28 Apr 2018 10:24:40 INFO Current iteration is happening at 2018-04-28T10:24:40.468894
+Sat, 28 Apr 2018 10:24:40 INFO Creating dataframe to append
+Sat, 28 Apr 2018 10:24:40 INFO Appending to existing file
+Sat, 28 Apr 2018 10:24:40 INFO Sleeping until next iteration
+Sat, 28 Apr 2018 10:39:40 INFO Done sleeping
+Sat, 28 Apr 2018 10:39:40 INFO Starting iteration cycle: 36
+Sat, 28 Apr 2018 10:39:40 INFO Attemping to fetch data
+Sat, 28 Apr 2018 10:39:40 INFO Starting new HTTPS connection (1): bookit.modo.coop
+Sat, 28 Apr 2018 10:39:41 INFO 200
+Sat, 28 Apr 2018 10:39:41 INFO Data fetch successful. Continuing.
+Sat, 28 Apr 2018 10:39:41 INFO Current iteration is happening at 2018-04-28T10:39:41.380333
+Sat, 28 Apr 2018 10:39:41 INFO Creating dataframe to append
+Sat, 28 Apr 2018 10:39:41 INFO Appending to existing file
+Sat, 28 Apr 2018 10:39:41 INFO Sleeping until next iteration
+Sat, 28 Apr 2018 10:54:41 INFO Done sleeping
+Sat, 28 Apr 2018 10:54:41 INFO Starting iteration cycle: 37
+Sat, 28 Apr 2018 10:54:41 INFO Attemping to fetch data
+Sat, 28 Apr 2018 10:54:41 INFO Starting new HTTPS connection (1): bookit.modo.coop
+Sat, 28 Apr 2018 10:54:42 INFO 200
+Sat, 28 Apr 2018 10:54:42 INFO Data fetch successful. Continuing.
+Sat, 28 Apr 2018 10:54:42 INFO Current iteration is happening at 2018-04-28T10:54:42.198023
+Sat, 28 Apr 2018 10:54:42 INFO Creating dataframe to append
+Sat, 28 Apr 2018 10:54:42 INFO Appending to existing file
+Sat, 28 Apr 2018 10:54:42 INFO Sleeping until next iteration
+Sat, 28 Apr 2018 11:09:42 INFO Done sleeping
+Sat, 28 Apr 2018 11:09:42 INFO Starting iteration cycle: 38
+Sat, 28 Apr 2018 11:09:42 INFO Attemping to fetch data
+Sat, 28 Apr 2018 11:09:42 INFO Starting new HTTPS connection (1): bookit.modo.coop
+Sat, 28 Apr 2018 11:09:42 INFO 200
+Sat, 28 Apr 2018 11:09:42 INFO Data fetch successful. Continuing.
+Sat, 28 Apr 2018 11:09:42 INFO Current iteration is happening at 2018-04-28T11:09:42.945422
+Sat, 28 Apr 2018 11:09:42 INFO Creating dataframe to append
+Sat, 28 Apr 2018 11:09:42 INFO Appending to existing file
+Sat, 28 Apr 2018 11:09:42 INFO Sleeping until next iteration
+Sat, 28 Apr 2018 11:24:43 INFO Done sleeping
+Sat, 28 Apr 2018 11:24:43 INFO Starting iteration cycle: 39
+Sat, 28 Apr 2018 11:24:43 INFO Attemping to fetch data
+Sat, 28 Apr 2018 11:24:43 INFO Starting new HTTPS connection (1): bookit.modo.coop
+Sat, 28 Apr 2018 11:24:43 INFO 200
+Sat, 28 Apr 2018 11:24:43 INFO Data fetch successful. Continuing.
+Sat, 28 Apr 2018 11:24:43 INFO Current iteration is happening at 2018-04-28T11:24:43.708399
+Sat, 28 Apr 2018 11:24:43 INFO Creating dataframe to append
+Sat, 28 Apr 2018 11:24:43 INFO Appending to existing file
+Sat, 28 Apr 2018 11:24:43 INFO Sleeping until next iteration
+Sat, 28 Apr 2018 11:39:43 INFO Done sleeping
+Sat, 28 Apr 2018 11:39:43 INFO Starting iteration cycle: 40
+Sat, 28 Apr 2018 11:39:43 INFO Attemping to fetch data
+Sat, 28 Apr 2018 11:39:43 INFO Starting new HTTPS connection (1): bookit.modo.coop
+Sat, 28 Apr 2018 11:39:44 INFO 200
+Sat, 28 Apr 2018 11:39:44 INFO Data fetch successful. Continuing.
+Sat, 28 Apr 2018 11:39:44 INFO Current iteration is happening at 2018-04-28T11:39:44.707799
+Sat, 28 Apr 2018 11:39:44 INFO Creating dataframe to append
+Sat, 28 Apr 2018 11:39:44 INFO Appending to existing file
+Sat, 28 Apr 2018 11:39:44 INFO Sleeping until next iteration
+Sat, 28 Apr 2018 11:54:44 INFO Done sleeping
+Sat, 28 Apr 2018 11:54:44 INFO Starting iteration cycle: 41
+Sat, 28 Apr 2018 11:54:44 INFO Attemping to fetch data
+Sat, 28 Apr 2018 11:54:44 INFO Starting new HTTPS connection (1): bookit.modo.coop
+Sat, 28 Apr 2018 11:54:45 INFO 200
+Sat, 28 Apr 2018 11:54:45 INFO Data fetch successful. Continuing.
+Sat, 28 Apr 2018 11:54:45 INFO Current iteration is happening at 2018-04-28T11:54:45.548835
+Sat, 28 Apr 2018 11:54:45 INFO Creating dataframe to append
+Sat, 28 Apr 2018 11:54:45 INFO Appending to existing file
+Sat, 28 Apr 2018 11:54:45 INFO Sleeping until next iteration
+Sat, 28 Apr 2018 12:09:45 INFO Done sleeping
+Sat, 28 Apr 2018 12:09:45 INFO Starting iteration cycle: 42
+Sat, 28 Apr 2018 12:09:45 INFO Attemping to fetch data
+Sat, 28 Apr 2018 12:09:45 INFO Starting new HTTPS connection (1): bookit.modo.coop
+Sat, 28 Apr 2018 12:09:46 INFO 200
+Sat, 28 Apr 2018 12:09:46 INFO Data fetch successful. Continuing.
+Sat, 28 Apr 2018 12:09:46 INFO Current iteration is happening at 2018-04-28T12:09:46.347008
+Sat, 28 Apr 2018 12:09:46 INFO Creating dataframe to append
+Sat, 28 Apr 2018 12:09:46 INFO Appending to existing file
+Sat, 28 Apr 2018 12:09:46 INFO Sleeping until next iteration
+Sat, 28 Apr 2018 12:24:46 INFO Done sleeping
+Sat, 28 Apr 2018 12:24:46 INFO Starting iteration cycle: 43
+Sat, 28 Apr 2018 12:24:46 INFO Attemping to fetch data
+Sat, 28 Apr 2018 12:24:46 INFO Starting new HTTPS connection (1): bookit.modo.coop
+Sat, 28 Apr 2018 12:24:47 INFO 200
+Sat, 28 Apr 2018 12:24:47 INFO Data fetch successful. Continuing.
+Sat, 28 Apr 2018 12:24:47 INFO Current iteration is happening at 2018-04-28T12:24:47.134223
+Sat, 28 Apr 2018 12:24:47 INFO Creating dataframe to append
+Sat, 28 Apr 2018 12:24:47 INFO Appending to existing file
+Sat, 28 Apr 2018 12:24:47 INFO Sleeping until next iteration
+Sat, 28 Apr 2018 12:39:47 INFO Done sleeping
+Sat, 28 Apr 2018 12:39:47 INFO Starting iteration cycle: 44
+Sat, 28 Apr 2018 12:39:47 INFO Attemping to fetch data
+Sat, 28 Apr 2018 12:39:47 INFO Starting new HTTPS connection (1): bookit.modo.coop
+Sat, 28 Apr 2018 12:39:47 INFO 200
+Sat, 28 Apr 2018 12:39:47 INFO Data fetch successful. Continuing.
+Sat, 28 Apr 2018 12:39:47 INFO Current iteration is happening at 2018-04-28T12:39:47.955100
+Sat, 28 Apr 2018 12:39:47 INFO Creating dataframe to append
+Sat, 28 Apr 2018 12:39:47 INFO Appending to existing file
+Sat, 28 Apr 2018 12:39:47 INFO Sleeping until next iteration
+Sat, 28 Apr 2018 12:54:48 INFO Done sleeping
+Sat, 28 Apr 2018 12:54:48 INFO Starting iteration cycle: 45
+Sat, 28 Apr 2018 12:54:48 INFO Attemping to fetch data
+Sat, 28 Apr 2018 12:54:48 INFO Starting new HTTPS connection (1): bookit.modo.coop
+Sat, 28 Apr 2018 12:54:48 INFO 200
+Sat, 28 Apr 2018 12:54:48 INFO Data fetch successful. Continuing.
+Sat, 28 Apr 2018 12:54:48 INFO Current iteration is happening at 2018-04-28T12:54:48.799667
+Sat, 28 Apr 2018 12:54:48 INFO Creating dataframe to append
+Sat, 28 Apr 2018 12:54:48 INFO Appending to existing file
+Sat, 28 Apr 2018 12:54:48 INFO Sleeping until next iteration
+Sat, 28 Apr 2018 13:09:48 INFO Done sleeping
+Sat, 28 Apr 2018 13:09:48 INFO Starting iteration cycle: 46
+Sat, 28 Apr 2018 13:09:48 INFO Attemping to fetch data
+Sat, 28 Apr 2018 13:09:48 INFO Starting new HTTPS connection (1): bookit.modo.coop
+Sat, 28 Apr 2018 13:09:49 INFO 200
+Sat, 28 Apr 2018 13:09:49 INFO Data fetch successful. Continuing.
+Sat, 28 Apr 2018 13:09:49 INFO Current iteration is happening at 2018-04-28T13:09:49.659848
+Sat, 28 Apr 2018 13:09:49 INFO Creating dataframe to append
+Sat, 28 Apr 2018 13:09:49 INFO Appending to existing file
+Sat, 28 Apr 2018 13:09:49 INFO Sleeping until next iteration
+Sat, 28 Apr 2018 13:24:49 INFO Done sleeping
+Sat, 28 Apr 2018 13:24:49 INFO Starting iteration cycle: 47
+Sat, 28 Apr 2018 13:24:49 INFO Attemping to fetch data
+Sat, 28 Apr 2018 13:24:49 INFO Starting new HTTPS connection (1): bookit.modo.coop
+Sat, 28 Apr 2018 13:24:50 INFO 200
+Sat, 28 Apr 2018 13:24:50 INFO Data fetch successful. Continuing.
+Sat, 28 Apr 2018 13:24:50 INFO Current iteration is happening at 2018-04-28T13:24:50.480711
+Sat, 28 Apr 2018 13:24:50 INFO Creating dataframe to append
+Sat, 28 Apr 2018 13:24:50 INFO Appending to existing file
+Sat, 28 Apr 2018 13:24:50 INFO Sleeping until next iteration
+Sat, 28 Apr 2018 13:39:50 INFO Done sleeping
+Sat, 28 Apr 2018 13:39:50 INFO Starting iteration cycle: 48
+Sat, 28 Apr 2018 13:39:50 INFO Attemping to fetch data
+Sat, 28 Apr 2018 13:39:50 INFO Starting new HTTPS connection (1): bookit.modo.coop
+Sat, 28 Apr 2018 13:39:51 INFO 200
+Sat, 28 Apr 2018 13:39:51 INFO Data fetch successful. Continuing.
+Sat, 28 Apr 2018 13:39:51 INFO Current iteration is happening at 2018-04-28T13:39:51.199412
+Sat, 28 Apr 2018 13:39:51 INFO Creating dataframe to append
+Sat, 28 Apr 2018 13:39:51 INFO Appending to existing file
+Sat, 28 Apr 2018 13:39:51 INFO Sleeping until next iteration
+Sat, 28 Apr 2018 13:54:51 INFO Done sleeping
+Sat, 28 Apr 2018 13:54:51 INFO Starting iteration cycle: 49
+Sat, 28 Apr 2018 13:54:51 INFO Attemping to fetch data
+Sat, 28 Apr 2018 13:54:51 INFO Starting new HTTPS connection (1): bookit.modo.coop
+Sat, 28 Apr 2018 13:54:52 INFO 200
+Sat, 28 Apr 2018 13:54:52 INFO Data fetch successful. Continuing.
+Sat, 28 Apr 2018 13:54:52 INFO Current iteration is happening at 2018-04-28T13:54:52.068516
+Sat, 28 Apr 2018 13:54:52 INFO Creating dataframe to append
+Sat, 28 Apr 2018 13:54:52 INFO Appending to existing file
+Sat, 28 Apr 2018 13:54:52 INFO Sleeping until next iteration
+Sat, 28 Apr 2018 14:09:52 INFO Done sleeping
+Sat, 28 Apr 2018 14:09:52 INFO Starting iteration cycle: 50
+Sat, 28 Apr 2018 14:09:52 INFO Attemping to fetch data
+Sat, 28 Apr 2018 14:09:52 INFO Starting new HTTPS connection (1): bookit.modo.coop
+Sat, 28 Apr 2018 14:09:52 INFO 200
+Sat, 28 Apr 2018 14:09:52 INFO Data fetch successful. Continuing.
+Sat, 28 Apr 2018 14:09:53 INFO Current iteration is happening at 2018-04-28T14:09:53.014392
+Sat, 28 Apr 2018 14:09:53 INFO Creating dataframe to append
+Sat, 28 Apr 2018 14:09:53 INFO Appending to existing file
+Sat, 28 Apr 2018 14:09:53 INFO Sleeping until next iteration
+Sat, 28 Apr 2018 14:24:53 INFO Done sleeping
+Sat, 28 Apr 2018 14:24:53 INFO Starting iteration cycle: 51
+Sat, 28 Apr 2018 14:24:53 INFO Attemping to fetch data
+Sat, 28 Apr 2018 14:24:53 INFO Starting new HTTPS connection (1): bookit.modo.coop
+Sat, 28 Apr 2018 14:24:53 INFO 200
+Sat, 28 Apr 2018 14:24:53 INFO Data fetch successful. Continuing.
+Sat, 28 Apr 2018 14:24:53 INFO Current iteration is happening at 2018-04-28T14:24:53.858824
+Sat, 28 Apr 2018 14:24:53 INFO Creating dataframe to append
+Sat, 28 Apr 2018 14:24:53 INFO Appending to existing file
+Sat, 28 Apr 2018 14:24:53 INFO Sleeping until next iteration
+Sat, 28 Apr 2018 14:39:53 INFO Done sleeping
+Sat, 28 Apr 2018 14:39:53 INFO Starting iteration cycle: 52
+Sat, 28 Apr 2018 14:39:53 INFO Attemping to fetch data
+Sat, 28 Apr 2018 14:39:53 INFO Starting new HTTPS connection (1): bookit.modo.coop
+Sat, 28 Apr 2018 14:39:54 INFO 200
+Sat, 28 Apr 2018 14:39:54 INFO Data fetch successful. Continuing.
+Sat, 28 Apr 2018 14:39:54 INFO Current iteration is happening at 2018-04-28T14:39:54.666371
+Sat, 28 Apr 2018 14:39:54 INFO Creating dataframe to append
+Sat, 28 Apr 2018 14:39:54 INFO Appending to existing file
+Sat, 28 Apr 2018 14:39:54 INFO Sleeping until next iteration
+Sat, 28 Apr 2018 14:54:54 INFO Done sleeping
+Sat, 28 Apr 2018 14:54:54 INFO Starting iteration cycle: 53
+Sat, 28 Apr 2018 14:54:54 INFO Attemping to fetch data
+Sat, 28 Apr 2018 14:54:54 INFO Starting new HTTPS connection (1): bookit.modo.coop
+Sat, 28 Apr 2018 14:54:55 INFO 200
+Sat, 28 Apr 2018 14:54:55 INFO Data fetch successful. Continuing.
+Sat, 28 Apr 2018 14:54:55 INFO Current iteration is happening at 2018-04-28T14:54:55.542547
+Sat, 28 Apr 2018 14:54:55 INFO Creating dataframe to append
+Sat, 28 Apr 2018 14:54:55 INFO Appending to existing file
+Sat, 28 Apr 2018 14:54:55 INFO Sleeping until next iteration
+Sat, 28 Apr 2018 15:09:55 INFO Done sleeping
+Sat, 28 Apr 2018 15:09:55 INFO Starting iteration cycle: 54
+Sat, 28 Apr 2018 15:09:55 INFO Attemping to fetch data
+Sat, 28 Apr 2018 15:09:55 INFO Starting new HTTPS connection (1): bookit.modo.coop
+Sat, 28 Apr 2018 15:09:56 INFO 200
+Sat, 28 Apr 2018 15:09:56 INFO Data fetch successful. Continuing.
+Sat, 28 Apr 2018 15:09:56 INFO Current iteration is happening at 2018-04-28T15:09:56.413320
+Sat, 28 Apr 2018 15:09:56 INFO Creating dataframe to append
+Sat, 28 Apr 2018 15:09:56 INFO Appending to existing file
+Sat, 28 Apr 2018 15:09:56 INFO Sleeping until next iteration
+Sat, 28 Apr 2018 15:24:56 INFO Done sleeping
+Sat, 28 Apr 2018 15:24:56 INFO Starting iteration cycle: 55
+Sat, 28 Apr 2018 15:24:56 INFO Attemping to fetch data
+Sat, 28 Apr 2018 15:24:56 INFO Starting new HTTPS connection (1): bookit.modo.coop
+Sat, 28 Apr 2018 15:24:57 INFO 200
+Sat, 28 Apr 2018 15:24:57 INFO Data fetch successful. Continuing.
+Sat, 28 Apr 2018 15:24:57 INFO Current iteration is happening at 2018-04-28T15:24:57.181328
+Sat, 28 Apr 2018 15:24:57 INFO Creating dataframe to append
+Sat, 28 Apr 2018 15:24:57 INFO Appending to existing file
+Sat, 28 Apr 2018 15:24:57 INFO Sleeping until next iteration
+Sat, 28 Apr 2018 15:39:57 INFO Done sleeping
+Sat, 28 Apr 2018 15:39:57 INFO Starting iteration cycle: 56
+Sat, 28 Apr 2018 15:39:57 INFO Attemping to fetch data
+Sat, 28 Apr 2018 15:39:57 INFO Starting new HTTPS connection (1): bookit.modo.coop
+Sat, 28 Apr 2018 15:39:58 INFO 200
+Sat, 28 Apr 2018 15:39:58 INFO Data fetch successful. Continuing.
+Sat, 28 Apr 2018 15:39:58 INFO Current iteration is happening at 2018-04-28T15:39:58.038091
+Sat, 28 Apr 2018 15:39:58 INFO Creating dataframe to append
+Sat, 28 Apr 2018 15:39:58 INFO Appending to existing file
+Sat, 28 Apr 2018 15:39:58 INFO Sleeping until next iteration
+Sat, 28 Apr 2018 15:54:58 INFO Done sleeping
+Sat, 28 Apr 2018 15:54:58 INFO Starting iteration cycle: 57
+Sat, 28 Apr 2018 15:54:58 INFO Attemping to fetch data
+Sat, 28 Apr 2018 15:54:58 INFO Starting new HTTPS connection (1): bookit.modo.coop
+Sat, 28 Apr 2018 15:54:58 INFO 200
+Sat, 28 Apr 2018 15:54:58 INFO Data fetch successful. Continuing.
+Sat, 28 Apr 2018 15:54:58 INFO Current iteration is happening at 2018-04-28T15:54:58.891441
+Sat, 28 Apr 2018 15:54:58 INFO Creating dataframe to append
+Sat, 28 Apr 2018 15:54:58 INFO Appending to existing file
+Sat, 28 Apr 2018 15:54:58 INFO Sleeping until next iteration
+Sat, 28 Apr 2018 16:09:58 INFO Done sleeping
+Sat, 28 Apr 2018 16:09:58 INFO Starting iteration cycle: 58
+Sat, 28 Apr 2018 16:09:58 INFO Attemping to fetch data
+Sat, 28 Apr 2018 16:09:58 INFO Starting new HTTPS connection (1): bookit.modo.coop
+Sat, 28 Apr 2018 16:09:59 INFO 200
+Sat, 28 Apr 2018 16:09:59 INFO Data fetch successful. Continuing.
+Sat, 28 Apr 2018 16:09:59 INFO Current iteration is happening at 2018-04-28T16:09:59.689689
+Sat, 28 Apr 2018 16:09:59 INFO Creating dataframe to append
+Sat, 28 Apr 2018 16:09:59 INFO Appending to existing file
+Sat, 28 Apr 2018 16:09:59 INFO Sleeping until next iteration
+Sat, 28 Apr 2018 16:24:59 INFO Done sleeping
+Sat, 28 Apr 2018 16:24:59 INFO Starting iteration cycle: 59
+Sat, 28 Apr 2018 16:24:59 INFO Attemping to fetch data
+Sat, 28 Apr 2018 16:24:59 INFO Starting new HTTPS connection (1): bookit.modo.coop
+Sat, 28 Apr 2018 16:25:00 INFO 200
+Sat, 28 Apr 2018 16:25:00 INFO Data fetch successful. Continuing.
+Sat, 28 Apr 2018 16:25:00 INFO Current iteration is happening at 2018-04-28T16:25:00.557763
+Sat, 28 Apr 2018 16:25:00 INFO Creating dataframe to append
+Sat, 28 Apr 2018 16:25:00 INFO Appending to existing file
+Sat, 28 Apr 2018 16:25:00 INFO Sleeping until next iteration
