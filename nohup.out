@@ -1,8 +1,8 @@
 Traceback (most recent call last):
-  File "/home/robertdefilippi/modo-sarima-model/pythonScript.py", line 7, in <module>
-    import numpy as np
-ImportError: No module named numpy
+  File "/home/robertdefilippi/modo-sarima-model/pythonScript.py", line 127, in <module>
+    'lng': lng_values
+NameError: name 'lng_values' is not defined
 Traceback (most recent call last):
-  File "/home/robertdefilippi/modo-sarima-model/pythonScript.py", line 7, in <module>
-    import numpy as np
-ImportError: No module named numpy
+  File "/home/robertdefilippi/modo-sarima-model/pythonScript.py", line 127, in <module>
+    'lng': lng_values
+NameError: name 'lng_values' is not defined
